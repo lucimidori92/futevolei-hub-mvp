@@ -97,7 +97,7 @@ A Definition of Ready (DoR) e a Definition of Done (DoD) foram definidas e aplic
 │   ├── 04-registrar-resultado.png
 │   ├── 05-resgatar-recompensa.png
 │   └── 06-perfil-jogador.png
-└── mvp-futevoleiHub.mp4
+└── video-url.txt
 ```
  
 ---
