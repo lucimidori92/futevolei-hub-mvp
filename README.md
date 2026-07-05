@@ -65,9 +65,9 @@ Cancelar desafio
  
 O backlog foi estruturado com épicos, features e histórias de usuário, priorizados de acordo com o sequenciador da Lean Inception:
  
-- **MF-64 MVP: Jogador** — perfil do jogador, autenticação, lado e nível de jogo
+- **MF-64 MVP: Jogador** — perfil do jogador, lado e nível de jogo
 - **MF-18 MVP: Desafios e Recompensas** — criar, aceitar, cancelar, registrar resultado, resgatar recompensa
-- **MF-19 Incremento 1: Ranking** — notificações push e histórico de partidas
+- **MF-19 Incremento 1: Ranking** — métricas individuais por jogador e histórico de partidas por jogador
 
 A Definition of Ready (DoR) e a Definition of Done (DoD) foram definidas e aplicadas a todas as histórias da Sprint 1.
  
@@ -85,16 +85,19 @@ A Definition of Ready (DoR) e a Definition of Done (DoD) foram definidas e aplic
  
 ```
 /
-├── canvas-url.txt          
+├── canvas-url.txt
+├── LICENSE     
 ├── product-backlog.pdf      
-├── sprint-backlog.pdf       
-└── wireframes/
-   ├── 01-criar-desafio.png
-   ├── 02-aceitar-recusar.png
-   ├── 03-detalhe-cancelar.png
-   ├── 04-registrar-resultado.png
-   ├── 05-resgatar-recompensa.png
-   └── 06-perfil-jogador.png
+├── sprint-backlog.pdf     
+├── README.md  
+├── wireframes/
+│   ├── 01-criar-desafio.png
+│   ├── 02-aceitar-recusar.png
+│   ├── 03-detalhe-cancelar.png
+│   ├── 04-registrar-resultado.png
+│   ├── 05-resgatar-recompensa.png
+│   └── 06-perfil-jogador.png
+└── mvp-futevoleiHub.mp4
 ```
  
 ---
