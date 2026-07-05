@@ -36,19 +36,16 @@ Uma Lean Inception completa foi conduzida no Miro, cobrindo todas as 9 etapas da
  
 ```
 [MVP — Sprint 1]                               [Incrementos]
-Perfil do jogador (lado + nível)    ══════>    Incremento 1: Engajamento
-Desafios em dupla com recompensa               Notificações push
-Aceitar e recusar desafios                     Histórico de partidas
+Perfil do jogador (lado + nível)    ══════>    Incremento 1: Ranking
+Desafios em dupla com recompensa               Métricas individuais por jogador
+Aceitar e recusar desafios                     histórico de partidas por jogador
 Registrar resultado                            
-Resgatar recompensa pelo app                   Incremento 2: Escala
-Cancelar desafio                               Busca de dupla
-                                               Ranking regional
-                                               Campeonatos
+Resgatar recompensa pelo app                   
+Cancelar desafio                                             
 ```
  
 - **Sprint 1 — MVP** — jornada completa do jogador: perfil, desafios em dupla e resgate de recompensa
-- **Sprint 2 — Incremento 1** — engajamento: notificações push e histórico de partidas
-- **Sprint 3 — Incremento 2** — escala: busca de dupla, ranking regional e campeonatos
+- **Sprint 2 — Incremento 1** — ranking: métricas individuais por jogador e histórico de partidas por jogador
 ---
  
 ## 4. Stack tecnológica
@@ -56,7 +53,7 @@ Cancelar desafio                               Busca de dupla
 | Camada | Tecnologia |
 |---|---|
 | App mobile | Android (Kotlin) |
-| Backend | Node.js + Express |
+| Backend | Django |
 | Banco de dados | PostgreSQL |
 | Autenticação | JWT + bcrypt - OAuth 2.0 Google - OAuth 2.0 Microsoft |
 | Documentação da API | Swagger / OpenAPI |
