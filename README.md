@@ -65,10 +65,11 @@ Cancelar desafio
  
 O backlog foi estruturado com épicos, features e histórias de usuário, priorizados de acordo com o sequenciador da Lean Inception:
  
-- **MVP: Jogador** — perfil do jogador, autenticação, lado e nível de jogo
-- **MVP: Desafios e Recompensas** — criar, aceitar, cancelar, registrar resultado, resgatar recompensa
-- **Incremento 1: Ranking** — notificações push e histórico de partidas
-A Definition of Ready e a Definition of Done foram definidas e aplicadas a todas as histórias da Sprint 1.
+- **MF-64 MVP: Jogador** — perfil do jogador, autenticação, lado e nível de jogo
+- **MF-18 MVP: Desafios e Recompensas** — criar, aceitar, cancelar, registrar resultado, resgatar recompensa
+- **MF-19 Incremento 1: Ranking** — notificações push e histórico de partidas
+
+A Definition of Ready (DoR) e a Definition of Done (DoD) foram definidas e aplicadas a todas as histórias da Sprint 1.
  
 ---
  
